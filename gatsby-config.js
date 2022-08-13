@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/client-gatsby",
   siteMetadata: {
     title: `client-gatsby-stwc`,
     siteUrl: `https://www.yourdomain.tld`,
